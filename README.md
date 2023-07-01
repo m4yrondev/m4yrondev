@@ -1,16 +1,3 @@
-<div align="center">
-<h1 align="center">Hi <img width="35" src="">, I'm Mayron Arrieta</h1>
-<h4 align="center">a freelance developer an also an engineering students at yogyakarta state university, see my <a href="" target="_blank">resume</a> for more</h4>
-</div>
-
-<div align="center">
-  <a href="https://1999azzar.github.io/1999AZZAR/">
-  <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg"
-       alt="snake" /></a>
-</div>
-
-
-# <img src = "" width = 32px> Tech Stack:
 
 <p 
 <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 
