@@ -8,7 +8,7 @@
 - 🎓 Studies for Web Development at [Covao Nocturno](https://nocturno.covao.ed.cr/)
 
 <br>
-<div></div>
+
 <div align="center">
   <a href="">
   <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg"
@@ -24,4 +24,4 @@
 <a href="https://desarrolloweb.com/home/c" target="_blank" rel="noreferrer">
   <img src="https://desarrolloweb.com/storage/tag_images/actual/BzOL16MEqsKOe0VThjF6FXPBi0uyK16lkTety9Wz.png" alt="c" width="59" height="40"/> </a><a href="https://getbootstrap.com/docs/5.0/getting-started/introduction/" target="_blank" rel="noreferrer"> <img src="https://getbootstrap.com/docs/5.3/assets/brand/bootstrap-logo-shadow.png" alt="illustrator" width="45" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> </p>
 
-##
+
