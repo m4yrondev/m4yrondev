@@ -7,10 +7,7 @@
 - 💡 I like to be constantly learning
 - 🎓 Studies for Web Development at [Covao Nocturno](https://nocturno.covao.ed.cr/)
 
-
-
 <br>
-
 
 <div align="center">
   <a href="">
